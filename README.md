@@ -1,10 +1,10 @@
 # Hey there! 👋
 
-I'm Sadaqat mMustafa, a passionate Flutter developer on a journey to turn caffeine into beautiful code. 🚀
+I'm Sadaqat Mustafa, a passionate Flutter developer on a journey to turn caffeine into beautiful code. 🚀
 
 ## About Me
 
-- 🎓 Computer Science undergrad Final year at NED University of Engineering and Technology, Karachi.
+- 🎓 Computer Science Final year undergrad at NED University of Engineering and Technology, Karachi.
 - 💻 Flutter enthusiast, turning coffee into code since 2022.
 - 🌐 Trying to be a Open source contributor and GitHub explorer.
 - 🎨 Design aficionado, always striving for pixel-perfect UI.
