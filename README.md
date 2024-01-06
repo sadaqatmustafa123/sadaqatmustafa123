@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**sadaqatmustafa123/sadaqatmustafa123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sadaqat mMustafa, a passionate Flutter developer on a journey to turn caffeine into beautiful code. 🚀
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science undergrad Final year at NED University of Engineering and Technology, Karachi.
+- 💻 Flutter enthusiast, turning coffee into code since 2022.
+- 🌐 Trying to be a Open source contributor and GitHub explorer.
+- 🎨 Design aficionado, always striving for pixel-perfect UI.
+
+## Tech Stack
+
+- 🔧 Flutter | Dart | Firebase
+- 🚀 Frontend: Flutter
+- 🛠 Back-end: Node-Js
+
+## Projects I'm Proud Of
+
+- 🚗 CampusNav - Currently working on this for my FYDP at NED University of Engineering and Technology, Karachi.
+- 🚀 POS App - All in One POS app for all of your needs.
+
+## Let's Connect
+
+- 🐦 Twitter - https://twitter.com/sadaqatmustafa1
+- 💼 Linkedin - https://www.linkedin.com/in/sadaqatmustafa/
+
+
+Let's code, innovate, and create something extraordinary together! ✨
