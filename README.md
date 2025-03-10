@@ -4,7 +4,7 @@ I'm Sadaqat Mustafa, a passionate Flutter developer on a journey to turn caffein
 
 ## About Me
 
-- 🎓 Computer Science Final year undergrad at NED University of Engineering and Technology, Karachi.
+- 🎓 Computer Scientist, NED University of Engineering and Technology, Karachi.
 - 💻 Flutter enthusiast, turning coffee into code since 2022.
 - 🌐 Trying to be a Open source contributor and GitHub explorer.
 - 🎨 Design aficionado, always striving for pixel-perfect UI.
@@ -12,13 +12,14 @@ I'm Sadaqat Mustafa, a passionate Flutter developer on a journey to turn caffein
 ## Tech Stack
 
 - 🔧 Flutter | Dart | Firebase
-- 🚀 Frontend: Flutter
-- 🛠 Back-end: Node-Js
+- 🚀 Frontend: Flutter | Native
+- 🛠 Back-end: Node-Js | Firebase | MongoDB  
 
 ## Projects I'm Proud Of
 
-- 🚗 CampusNav - Currently working on this for my FYDP at NED University of Engineering and Technology, Karachi.
-- 🚀 POS App - All in One POS app for all of your needs.
+- 🚗 CampusNav - Award winning FYDP at NED University of Engineering and Technology, Karachi.
+- 🚀 Demoda - On Demoda, short-form videos are exciting, spontaneous, and genuine.
+- Cravo - Cravo helps you discover and order delicious food from local restaurants, with real-time order tracking, easy communication with delivery riders, and direct support through the app.
 
 ## Let's Connect
 
