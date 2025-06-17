@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-I'm Sadaqat Mustafa, a passionate Flutter developer on a journey to turn caffeine into beautiful code. 🚀
+I'm Sadaqat Mustafa, I build mobile apps that not only look great but feel great to use. Clean code, solid architecture, and user-first
+design are at the heart of everything I create. 🚀
 
 ## About Me
 
