@@ -1,31 +1,25 @@
-# Hey there! 👋
-
-I'm Sadaqat Mustafa, I build mobile apps that not only look great but feel great to use. Clean code, solid architecture, and user-first
-design are at the heart of everything I create. 🚀
-
-## About Me
-
-- 🎓 Computer Scientist, NED University of Engineering and Technology, Karachi.
-- 💻 Flutter enthusiast, turning coffee into code since 2022.
-- 🌐 Trying to be a Open source contributor and GitHub explorer.
-- 🎨 Design aficionado, always striving for pixel-perfect UI.
-
-## Tech Stack
-
-- 🔧 Flutter | Dart | Firebase
-- 🚀 Frontend: Flutter | Native
-- 🛠 Back-end: Node-Js | Firebase | MongoDB  
-
-## Projects I'm Proud Of
-
-- 🚗 CampusNav - Award winning FYDP at NED University of Engineering and Technology, Karachi.
-- 🚀 Demoda - On Demoda, short-form videos are exciting, spontaneous, and genuine.
-- Cravo - Cravo helps you discover and order delicious food from local restaurants, with real-time order tracking, easy communication with delivery riders, and direct support through the app.
-
-## Let's Connect
-
-- 🐦 Twitter - https://twitter.com/sadaqatmustafa1
-- 💼 Linkedin - https://www.linkedin.com/in/sadaqatmustafa/
+# 💫 About Me:
+Software Engineer | Building mobile apps that work great — and win users fast
 
 
-Let's code, innovate, and create something extraordinary together! ✨
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadaqatmustafa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sadaqatmustafa1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadaqatmustafa.dev@gmail.com) 
+
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sadaqatmustafa123&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sadaqatmustafa123&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadaqatmustafa123&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sadaqatmustafa123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aneesulhassan05) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
